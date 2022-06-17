@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhatsApp", "WhatsApp\WhatsApp.csproj", "{EAB60B36-A18F-47FE-9C9E-97B056A5D345}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhatsApp.Tests", "WhatsApp.Tests\WhatsApp.Tests.csproj", "{E6636B13-BA46-452D-915D-A863D6B07072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB60B36-A18F-47FE-9C9E-97B056A5D345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB60B36-A18F-47FE-9C9E-97B056A5D345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB60B36-A18F-47FE-9C9E-97B056A5D345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB60B36-A18F-47FE-9C9E-97B056A5D345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6636B13-BA46-452D-915D-A863D6B07072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6636B13-BA46-452D-915D-A863D6B07072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6636B13-BA46-452D-915D-A863D6B07072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6636B13-BA46-452D-915D-A863D6B07072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F810DC7F-C9BE-4C3D-841E-FF51512D2E26}
+	EndGlobalSection
+EndGlobal
